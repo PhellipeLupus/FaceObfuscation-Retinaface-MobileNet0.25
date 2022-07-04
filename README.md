@@ -1,1 +1,1 @@
-# FaceObfuscation-Retinaface-MobileNet0.25
+# VideoBlurring-MobileNet0.25
