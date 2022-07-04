@@ -1,1 +1,1 @@
-# VideoBlurring-MobileNet0.25
+# VideoBlurring-RetinaFace
